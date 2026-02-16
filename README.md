@@ -1,29 +1,19 @@
 <h1 align="center">Hi 👋, I'm Dhruv Tyagi</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </p>
+
 <h3 align="center">Full Stack .NET Developer | ASP.NET Core | React | SQL Server</h3>
 
 ---
 
-<table>
-<tr>
-<td width="50%">
+## 🚀 About Me
 
-### 👨‍💻 About Me
-
-- Full Stack .NET Developer  
-- ASP.NET Core & React  
-- Building Enterprise ERP Systems  
-- 60+ APIs Designed  
-
-</td>
-
-<td width="50%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</td>
-</tr>
-</table>
+💼 Full Stack Developer at Sensation Software Solutions Pvt Ltd  
+🏗 Working on Enterprise-Level College ERP System  
+🔐 Built 60+ REST APIs & 60+ Stored Procedures  
+📊 Strong in Backend Architecture & Database Design  
+⚡ Passionate about building scalable systems  
 
 ---
 
@@ -76,12 +66,11 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=DHRUV543210&show_icons=true&hide_border=true" />
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHRUV543210&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV543210&layout=compact&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV543210&layout=compact&theme=tokyonight)
 
-<img src="https://streak-stats.demolab.com?user=DHRUV543210&hide_border=true" />
-
+![GitHub Streak](https://streak-stats.demolab.com?user=DHRUV543210&theme=tokyonight)
 
 ---
 
