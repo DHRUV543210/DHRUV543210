@@ -6,13 +6,24 @@
 
 ---
 
-## 🚀 About Me
+<table>
+<tr>
+<td width="50%">
 
-💼 Full Stack Developer at Sensation Software Solutions Pvt Ltd  
-🏗 Working on Enterprise-Level College ERP System  
-🔐 Built 60+ REST APIs & 60+ Stored Procedures  
-📊 Strong in Backend Architecture & Database Design  
-⚡ Passionate about building scalable systems  
+### 👨‍💻 About Me
+
+- Full Stack .NET Developer  
+- ASP.NET Core & React  
+- Building Enterprise ERP Systems  
+- 60+ APIs Designed  
+
+</td>
+
+<td width="50%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</td>
+</tr>
+</table>
 
 ---
 
