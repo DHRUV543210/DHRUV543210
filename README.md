@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dhruv Tyagi</h1>
-
+<h3 align="center">Full Stack .NET Developer | ASP.NET Core | React | SQL Server</h3>
 <p align="center">
-  <img style="border-radius:5px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+Building scalable enterprise systems with clean architecture & secure APIs.
 </p>
 
-<h3 align="center">Full Stack .NET Developer | ASP.NET Core | React | SQL Server</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
 
 ---
 
@@ -12,7 +14,8 @@
 
 💼 Full Stack Developer at Sensation Software Solutions Pvt Ltd  
 🏗 Working on Enterprise-Level College ERP System  
-🔐 Built 60+ REST APIs & 60+ Stored Procedures  
+🔐 ⚡ Focused on clean architecture, scalable backend systems, and enterprise-grade applications  
+📈 Engineered 60+ APIs & 60+ SQL Stored Procedures in production environment  
 📊 Strong in Backend Architecture & Database Design  
 ⚡ Passionate about building scalable systems  
 
@@ -20,22 +23,23 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Backend
-- ASP.NET Core Web API
-- C#
-- Entity Framework Core
-- SQL Server
+<p align="center">
 
-### 🎨 Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
 
-### ⚙️ Tools
-- Git & GitHub
-- Visual Studio
-- VS Code
+</p>
+
 
 ---
 
@@ -77,5 +81,6 @@
 
 ## 🌐 Connect With Me
 
-📧 dhruvtyagi1001@gmail.com  
+[![Email](https://img.shields.io/badge/Email-dhruvtyagi1001%40gmail.com-red?style=flat-square&logo=gmail)](mailto:dhruvtyagi1001@gmail.com)
+
 💼 Open to Full Stack .NET Opportunities  
