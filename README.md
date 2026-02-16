@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhruv Tyagi</h1>
+<div style="display:flex; flex-direction:row;">
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </p>
+</div>
 
 
 <h3 align="center">Full Stack .NET Developer | ASP.NET Core | React | SQL Server</h3>
