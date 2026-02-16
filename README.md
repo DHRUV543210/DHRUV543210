@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Tyagi</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 <h3 align="center">Full Stack .NET Developer | ASP.NET Core | React | SQL Server</h3>
 
 ---
